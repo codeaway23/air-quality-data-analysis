@@ -18,7 +18,7 @@ The state names of the x-axis are in ascending order of the AQI. The values not 
 1. AQI values of all states
 ![alt text](https://github.com/codeaway23/air-quality-data-analysis/blob/master/plots/states_vs_AQI.png)
 2. Comparison of important pollutants across states
-![alt text](hhttps://github.com/codeaway23/air-quality-data-analysis/blob/master/plots/key_pollutants.png)
+![alt text](https://github.com/codeaway23/air-quality-data-analysis/blob/master/plots/key_pollutants.png)
 3. Pollution in 5 most polluted states in India
 ![alt text](https://github.com/codeaway23/air-quality-data-analysis/blob/master/plots/most_polluted_states.png)
 4. Pollution in 5 cleanest states in India
